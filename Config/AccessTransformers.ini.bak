@@ -1,0 +1,15 @@
+[AccessTransformers]
+Friend=(Class="UFGResourceDescriptor", FriendClass="UDTCDOOverride")
+BlueprintReadWrite=(Class="UFGResourceDescriptor", Property="mCollectSpeedMultiplier")
+BlueprintReadWrite=(Class="FGResourceDescriptor", Property="mCollectSpeedMultiplier")
+BlueprintReadWrite=(Class="DTGameInstanceModule", Property="mCollectSpeedMultiplier")
+BlueprintReadWrite=(Class="UCDOEdits", Property="mCollectSpeedMultiplier")
+BlueprintReadWrite=(Class="CDOEdits", Property="mCollectSpeedMultiplierOverride")
+BlueprintReadWrite=(Class="GameInstanceModule", Property="mCollectSpeedMultiplierOverride")
+BlueprintReadWrite=(Class="UGameInstanceModule", Property="mCollectSpeedMultiplierOverride")
+BlueprintReadWrite=(Class="FGItemDescriptor", Property="mCollectSpeedMultiplierOverride")
+BlueprintReadWrite=(Class="UFGItemDescriptor", Property="mCollectSpeedMultiplier")
+BlueprintReadWrite=(Class="ItemCDOs", Property="mCollectSpeedMultiplier")
+
+Friend=(Class="UFGItemDescriptor", FriendClass="UDTCDOOverride")
+Friend=(Class="UFGResourceDescriptor", FriendClass="UDTCDOOverride")
