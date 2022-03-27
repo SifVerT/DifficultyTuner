@@ -35,7 +35,7 @@
     },
     {
       "Name": "KBFL",
-      "SemVersion": "^0.2.0",
+      "SemVersion": "^1.11.3",
       "Enabled": true
     }	
   ]
