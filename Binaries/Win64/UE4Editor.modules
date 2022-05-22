@@ -2,6 +2,6 @@
 	"BuildId": "868e543e-6c7d-4390-9a4c-8d40eb34db42",
 	"Modules": 
 	{
-		"DifficultyTuner": "UE4Editor-DifficultyTuner-0001.dll"
+		"DifficultyTuner": "UE4Editor-DifficultyTuner.dll"
 	}
 }
