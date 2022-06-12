@@ -1,8 +1,8 @@
 {
   "FileVersion": 3,
   "Version": 2,
-  "VersionName": "2.2.10",
-  "SemVersion": "2.2.10",
+  "VersionName": "2.2.11",
+  "SemVersion": "2.2.11",
   "FriendlyName": "DifficultyTuner",
   "Description": "Tune the difficulty with multiple difficulty presets or custom values.",
   "Category": "Modding",
