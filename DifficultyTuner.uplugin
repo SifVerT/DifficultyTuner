@@ -1,8 +1,8 @@
 {
   "FileVersion": 3,
   "Version": 2,
-  "VersionName": "2.2.15",
-  "SemVersion": "2.2.15",
+  "VersionName": "2.2.16",
+  "SemVersion": "2.2.16",
   "FriendlyName": "DifficultyTuner",
   "Description": "Tune the difficulty with multiple difficulty presets or custom values.",
   "Category": "Modding",
@@ -32,11 +32,6 @@
       "Name": "ContentLib",
       "SemVersion": "^0.2.0",
       "Enabled": true
-    },
-    {
-      "Name": "KBFL",
-      "SemVersion": "^1.11.3",
-      "Enabled": true
-    }	
+    }
   ]
 }
