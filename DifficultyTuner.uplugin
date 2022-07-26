@@ -1,8 +1,8 @@
 {
   "FileVersion": 3,
   "Version": 2,
-  "VersionName": "2.2.20",
-  "SemVersion": "2.2.20",
+  "VersionName": "2.3.0",
+  "SemVersion": "2.3.0",
   "FriendlyName": "DifficultyTuner",
   "Description": "Tune the difficulty with multiple difficulty presets or custom values.",
   "Category": "Modding",
@@ -25,12 +25,7 @@
   "Plugins": [
     {
       "Name": "SML",
-      "SemVersion": "^3.3.1",
-      "Enabled": true
-    },
-    {
-      "Name": "ContentLib",
-      "SemVersion": "^0.2.0",
+      "SemVersion": "^3.3.2",
       "Enabled": true
     }
   ]
